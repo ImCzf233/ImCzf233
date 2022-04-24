@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ImCzf233
-- 👀 I’m interested in crack.
+- 👀 I’m interested in C-Sharp.
 - 🌱 I’m currently learning Java.
-- 📫 You can send email to Czf233@yandex.com
